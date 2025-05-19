@@ -1,0 +1,42 @@
+body {
+  background-color: #cdb4db;
+  color: #333;
+}
+.hero-section {
+  background: url("img3.jpg") no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #023047;
+}
+.navbar {
+  background-color: #023047 !important;
+}
+.btn-primary {
+  background-color: #023047;
+  border-color: #023047;
+}
+.btn-primary:hover {
+  background-color: white;
+  border-color: white;
+  color: #023047;
+}
+.card {
+  background-color: #023047;
+  color: white;
+}
+footer {
+  background-color: #023047;
+  color: #bde0fe;
+}
+footer a {
+  background-color: #023047;
+  color: #bde0fe;
+}
+footer a:hover {
+  background-color: #023047;
+  color: #e2e2e2;
+}

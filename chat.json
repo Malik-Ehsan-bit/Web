@@ -1,0 +1,42 @@
+{
+  "faqs": [
+    {
+      "question": "hours",
+      "answer": "We're open Monday to Friday from 9AM to 6PM."
+    },
+    {
+      "question": "contact",
+      "answer": "You can reach us at support@smartshop.com or call +1 (555) 123-4567."
+    },
+    {
+      "question": "returns",
+      "answer": "We accept returns within 30 days of purchase with original receipt."
+    },
+    {
+      "question": "payment",
+      "answer": "We accept Visa, MasterCard, American Express, and PayPal."
+    },
+    {
+      "question": "shipping",
+      "answer": "Standard shipping takes 3-5 business days. Express shipping available for an additional fee."
+    },
+    {
+      "question": "products",
+      "answer": "We offer a wide range of products. Is there something specific you're looking for?"
+    }
+  ],
+  "greetings": {
+    "morning": "Good Morning!",
+    "afternoon": "Good Afternoon!",
+    "evening": "Good Evening!",
+    "default": "Hello!"
+  },
+  "suggestions": [
+    "Store hours",
+    "Contact information",
+    "Return policy",
+    "Payment methods",
+    "Shipping options",
+    "Product availability"
+  ]
+}

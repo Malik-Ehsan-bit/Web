@@ -1,0 +1,48 @@
+body {
+  background: url("img1.jpg") no-repeat center center/cover;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: #023047 !important;
+}
+
+.btn-primary {
+  background-color: #023047;
+  border-color: #023047;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  border-color: white;
+  color: #023047;
+}
+
+.feedback-wrapper {
+  min-height: calc(100vh - 56px); /* Subtract navbar height */
+  padding: 20px 0;
+}
+
+.feedback-container {
+  background-color: rgba(189, 224, 254, 0.9);
+  padding: 40px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 450px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+  border-radius: 8px;
+  border: 1px solid #023047;
+}
+
+.form-control:focus {
+  border-color: #023047;
+  box-shadow: 0 0 0 0.25rem rgba(2, 48, 71, 0.25);
+}
+
+textarea.form-control {
+  resize: vertical;
+  min-height: 120px;
+}
